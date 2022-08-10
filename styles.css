@@ -1,1 +1,73 @@
-/* Copy and paste your CSS from CodePen into here */
+html {
+  background-image: url(https://plus.maths.org/content/sites/plus.maths.org/files/articles/2015/Lovelace/diagram_for_the_computation_of_bernoulli_numbers.jpg);
+  background-color: #e5e5f7;
+}
+
+#main {
+  font-family: 'Ibarra Real Nova', serif;
+}
+
+#introduction {
+  text-align: center;
+  background: bisque;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 5px #888888;
+  width: 80%;
+  margin: 2em auto;
+  border-style: solid;
+}
+
+h1 {
+  font-size: 46px;
+  margin: 0.5rem;
+  font-weight: bold;
+}
+
+#summary {
+  margin-top: 0rem;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+  background: bisque;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0px 5px #888888;
+  width: 60%;
+  max-width: 524px;
+  margin: auto;
+  border-style: solid;
+}
+
+#img-caption {
+  margin-top: 1em;
+}
+
+#tribute-info {
+  text-align: center;
+  background: bisque;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  box-shadow: 0px 5px #888888;
+  width: 80%;
+  margin: 2em auto;
+  border-style: solid;
+}
+
+#tribute-link {
+
+}
